@@ -6,14 +6,22 @@
 
 > 静态服务是使用的 Google 的 [Firebase](https://firebase.google.com/) 国内网络访问或许有些慢。
 
+### 方法1
+
 1. 使用手机浏览器扫码以下二维码或者打开 https://bingdundun.web.app 并授权摄像头权限。
 ![冰墩墩二维码](/public/assets/qr.png)
 
 2. 在网页加载完成后将摄像头对准下面冰墩墩和雪容融的图片。
 ![冰墩墩和雪容融](/public/assets/mark.jpg)
 
-### 演示：
-![演示](/public/assets/demo.GIF)
+#### 演示：
+
+![演示](/public/assets/demo1.gif)
+
+### 方法2
+
+使用扫码下方二维码，打开 https://bingdundun.web.app 并授权摄像头权限，将摄像头对准该二维码，要将周围黑色区域包含在内。
+![冰墩墩二维码](/public/assets/pattern.png)
 
 ## Tip
 
