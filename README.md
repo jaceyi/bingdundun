@@ -1,6 +1,6 @@
 # 冰墩墩和雪容融 Web AR版
 
-使用 [AR.js](https://ar-js-org.github.io/AR.js-Docs/) + [A-Frame.js](https://aframe.io/) 实现，建模文件来自 [Sketchfab](https://sketchfab.com/3d-models/069d276a8b334a32b4993ec5dd2e278b)。
+使用 [AR.js](https://ar-js-org.github.io/AR.js-Docs/) + [A-Frame.js](https://aframe.io/) 实现。
 
 ## 预览
 
@@ -13,8 +13,16 @@
 ![冰墩墩和雪容融](/public/assets/mark.jpg)
 
 ### 演示：
-![演示](/public/assets/demo.gif)
+![演示](/public/assets/demo.GIF)
 
-## Ohter
+## Tip
 
 `aframe-ar-nft.js` 放在了自己的仓库是因为官方默认好像有请求限制，开发的时候短时间内多请求了几次就 **429** 了。
+
+教程：[每人送个冰墩墩和雪容融快来领 — AR.js + A-Frame.js](https://juejin.cn)
+
+## License
+
+3D模型来源：[Sketchfab](https://sketchfab.com/3d-models/069d276a8b334a32b4993ec5dd2e278b)
+
+[License](/public/assets/license.txt)

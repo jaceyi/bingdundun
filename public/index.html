@@ -107,6 +107,10 @@
   <a-scene vr-mode-ui="enabled: false;" device-orientation-permission-ui="enabled: false"
     renderer="logarithmicDepthBuffer: true;" embedded
     arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;">
+    <a-marker type="pattern" url="/assets/pattern.patt" smooth="true" smoothCount="10" smoothThreshold="5">
+      <a-entity gltf-model="/assets/scene.gltf" rotation="-90 0 0" scale="120 120 120" position="55 -130 0">
+      </a-entity>
+    </a-marker>
     <a-nft type="nft" url="/assets/mark/bdd" smooth="true" smoothCount="10" smoothThreshold="5">
       <a-entity gltf-model="/assets/scene.gltf" rotation="-90 0 0" scale="120 120 120" position="55 -130 0">
       </a-entity>
