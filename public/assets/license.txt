@@ -1,0 +1,11 @@
+Model Information:
+* title:	冰墩墩和雪容融
+* source:	https://sketchfab.com/3d-models/069d276a8b334a32b4993ec5dd2e278b
+* author:	小王子 (https://sketchfab.com/hong2695429209)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "冰墩墩和雪容融" (https://sketchfab.com/3d-models/069d276a8b334a32b4993ec5dd2e278b) by 小王子 (https://sketchfab.com/hong2695429209) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
