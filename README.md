@@ -25,8 +25,6 @@
 
 这里要做一个 AR 的、立体的冰墩墩，肯定是需要 3D 建模的，我在 [Sketchfab](https://sketchfab.com/3d-models/069d276a8b334a32b4993ec5dd2e278b) 找到了一个可以下载的冰墩墩和雪容融建模。
 
-![下载建模](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/57f447a9acb647a99769e1a6082dbd78~tplv-k3u1fbpfcp-watermark.image?)
-
 点击左下角 Download ，选择 **Autoconverted format (glTF)** 下载压缩包并解压得到如下文件：
 
 ![mark目录](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81d037f0a11c40cbb14002c804eb969f~tplv-k3u1fbpfcp-watermark.image?)
